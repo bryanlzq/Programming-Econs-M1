@@ -1,0 +1,12 @@
+Nice work. It was an interesting take on the problem setting p to be random. This made
+your output unpredictable (of course) but was a neat idea. What would be the expected
+wealth of playing a gamble whose probability of winning is unknown! That's tough, but
+is related to a field in finance known as Robust Finance, where one tries to learn
+about the model not knowing the distribution of risk. 
+
+A few comments: you should work on naming your variables something more meaningful. K was
+hard to figure out. Additionally, add comments (the more the merrier) to help me see
+what you're doing and remind yourself later. Lastly, plotting is always good practice and
+fun to see what you're getting from your simulation!
+
+In any case, nice work.
