@@ -1,0 +1,3 @@
+Again nice work. I fixed your functions at the end, there was an extra parenthesis. This is where
+working with scripts and the comman prompt can help as the error messages are easier to read.
+The notebook error message was there, but harder to interpret.
