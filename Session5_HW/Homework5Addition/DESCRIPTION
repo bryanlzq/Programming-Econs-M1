@@ -1,7 +1,7 @@
 Package: Homework5Addition
 Title: Addition function
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Bryan”, "Lim”, email = “zhiqin.lim@sciencespo.fr”, role = c("aut", "cre"))
 Description: Addition for 2 Numbers.
 Depends:
     R (>= 3.3.1)
