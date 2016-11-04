@@ -2,3 +2,12 @@ Tyler's Comments
 
 2016.10.03 - HW4 - Great job on the plot Bryan (lot's of people didn't
 get that).
+
+2016.10.25 - HW5 - Well done Bryan, but you forgot to put your function
+             into another file. The only reason your function works is
+             not because it is in the package but because you ran the
+             code in R. You should save the function in a .R file in your
+             package.
+             HW6 - Hope the problems were useful. Was there anything else you
+             would have preferred I cover in these questions?
+             
