@@ -10,4 +10,5 @@ get that).
              package.
              HW6 - Hope the problems were useful. Was there anything else you
              would have preferred I cover in these questions?
-             
+
+2016.11.05 - HW7 and HW8 - Submitted.
